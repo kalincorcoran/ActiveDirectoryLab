@@ -19,8 +19,8 @@ The goal of this project is to build a small enterprise-style Windows network en
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://imgur.com/a/nO8v2bz"/>
+I created a private VMware network for my Active Directory lab. This keeps the lab computers separated from my home network: <br/>
+<img src="https://imgur.com/a/KAIY4OA" height="80%" width="80%" alt="Active Directory Steps"/>
 <br />
 <br />
 Select the disk:  <br/>
