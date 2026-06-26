@@ -20,7 +20,7 @@ The goal of this project is to build a small enterprise-style Windows network en
 
 <p align="center">
 I created a private VMware network for my Active Directory lab. This keeps the lab computers separated from my home network: <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/KDT8Ps4.png" height="80%" width="80%" alt="Active Directory Steps"/>
 <br />
 <br />
 Select the disk:  <br/>
