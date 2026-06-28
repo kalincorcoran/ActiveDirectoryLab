@@ -1,6 +1,6 @@
-<h1>JWipe - Active Directoy lab</h1>
+<h1>Active Directoy Lab</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
+
 
 <h2>Description</h2>
 The goal of this project is to build a small enterprise-style Windows network environment using VMware. This lab demonstrates the installation and configuration of Active Directory Domain Services, DNS, DHCP, user management, Group Policy, and joining client computers to a Windows domain.
